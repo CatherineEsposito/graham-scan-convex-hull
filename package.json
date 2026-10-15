@@ -1,6 +1,6 @@
 {
   "name": "graham-scan-convex-hull",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "2D convex hull implementation using angular sort and stack scan",
   "type": "module",
   "main": "src/index.js",
